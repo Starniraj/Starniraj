@@ -1,5 +1,4 @@
-                                                                   ### Hi 👋 I'm Niraj Singh!
-<hr>
+                                                                ### Hi 👋 I'm Niraj Singh! <hr>
 ### Full Stack Web Developer
 Here are some ideas to get you started:
 
