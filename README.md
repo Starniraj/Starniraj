@@ -9,3 +9,4 @@ Internet calls me Starniraj :smile:
 - ⚡ Fun fact I am interested in Traveling.
 
 ### Skills
+<img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"></a></image>
