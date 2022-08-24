@@ -9,7 +9,7 @@ Internet calls me Starniraj :smile:
 - ⚡ Fun fact I am interested in Traveling.
 
 ### Skills
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"<img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35px" height="35px"></image></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35px" height="35px"></a></image>
 <img  src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35px" height="35px"></image>
 <img  src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="35px" height="35px"></image>  
 <img  src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="35px" height="35px"> </image>
