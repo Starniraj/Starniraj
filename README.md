@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
-**Starniraj/Starniraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi 👋 I'm Niraj Singh!
+### Full Stack Web Developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
