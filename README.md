@@ -8,4 +8,4 @@ Internet calls me Starniraj :smile:
 - 📫 How to reach me:singhniraj637@gmail.com
 - ⚡ Fun fact I am interested in Traveling.
 
-<img src="http://www.github.com/Starniraj">
+###Skills
