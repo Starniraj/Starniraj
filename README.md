@@ -19,6 +19,9 @@ Internet calls me Starniraj :smile:
 <img  src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"  width="35px" height="35px"><a href="https://www.mysql.com/"></a></image>
 <img  src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg"  width="35px" height="35px"><a href="https://www.heroku.com/"></a></image>
 
+### Social
+<img  src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"  width="35px" height="35px"><a href="https://www.linkedin.com/in/niraj-singh-07a107216/"></a></image>
+
 
 
 
