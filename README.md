@@ -1,5 +1,6 @@
 ### Hi 👋 I'm Niraj Singh!
-### Full Stack Web Developer
+<hr>
+## Full Stack Web Developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
