@@ -1,4 +1,4 @@
-### Hi 👋 I'm Niraj Singh! <hr>
+![image](https://github.com/Starniraj/Starniraj/assets/102036558/b79ad13e-9364-475d-a6be-39745a024d92)### Hi 👋 I'm Niraj Singh! <hr>
 ### MERN Stack Web Developer <hr>
 Internet calls me Starniraj :smile:
 
@@ -9,7 +9,7 @@ Internet calls me Starniraj :smile:
 - ⚡ Fun fact I am interested in Traveling.
 
 ### Skills
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35px" height="35px"></image>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="35px" height="35px"></image>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35px" height="35px"></image>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="35px" height="35px"></image>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="35px" height="35px"></image>
