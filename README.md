@@ -1,4 +1,4 @@
-![image](https://github.com/Starniraj/Starniraj/assets/102036558/b79ad13e-9364-475d-a6be-39745a024d92)### Hi 👋 I'm Niraj Singh! <hr>
+### Hi 👋 I'm Niraj Singh! <hr>
 ### MERN Stack Web Developer <hr>
 Internet calls me Starniraj :smile:
 
@@ -10,14 +10,13 @@ Internet calls me Starniraj :smile:
 
 ### Skills
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="35px" height="35px"></image>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35px" height="35px"></image>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="35px" height="35px"></image>
+<img src="https://ictacademy.com.ng/wp-content/uploads/2020/02/92.-JavaScript-logo.png" width="35px" height="35px"></image>
+<img src="https://th.bing.com/th/id/OIP.Tf4BFI6846neirVSebC0vAAAAA?pid=ImgDet&rs=1" width="35px" height="35px"></image>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="35px" height="35px"></image>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="35px" height="35px"></image>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="35px" height="35px"></image>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="35px" height="35px"></image>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="35px" height="35px"></image>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="35px" height="35px"></image>
+<img src="https://clipground.com/images/mongodb-png-logo-4.jpg" width="35px" height="35px"></image>
+<img src="https://th.bing.com/th/id/R.6a33b5d5c9cbe5f9ae76caaca8bcfaf4?rik=1fXC1dOa%2fYBOyQ&riu=http%3a%2f%2fsonneiltech.com%2fwp-content%2fuploads%2f2021%2f01%2fpostman-logo-stacked.png&ehk=06R43mmYz6vVhuk8OfJDz1Gw3%2fku%2f8W1YnQG9WNx1sI%3d&risl=&pid=ImgRaw&r=0" width="35px" height="35px"></image>
+<img src="https://a.slack-edge.com/80588/img/api/netlify.png" width="35px" height="35px"></image>
+<img src="https://th.bing.com/th/id/OIP.d5h6YbF8IOvyyBciRx7gzAHaCe?pid=ImgDet&rs=1" width="35px" height="35px"></image>
 
 ### Socials
 <a href="https://www.linkedin.com/in/niraj-singh-07a107216/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35px" height="35px"></a></image>
