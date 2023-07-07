@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Niraj Singh! <hr>
-### Full Stack Web Developer <hr>
+### MERN Stack Web Developer <hr>
 Internet calls me Starniraj :smile:
 
-- 🔭 I’m currently a Programmer Trainee at Cognizant.
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🔭 I’m currently a Programmer at Cognizant.
+- 🌱 Working in Life Science Domain.
 - 👯 I'm open to collaborating on React Apps, Projects to develop website.
 - 📫 How to reach me:singhniraj637@gmail.com
 - ⚡ Fun fact I am interested in Traveling.
