@@ -17,7 +17,7 @@ Internet calls me Starniraj :smile:
 <img src="https://th.bing.com/th/id/OIP.d5h6YbF8IOvyyBciRx7gzAHaCe?pid=ImgDet&rs=1" width="35px" height="35px"></image>
 
 ### Socials
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35px" height="35px"><a href="https://www.linkedin.com/in/niraj-singh-07a107216/"></a></image>
+<img src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" width="35px" height="35px"><a href="https://www.linkedin.com/in/niraj-singh-07a107216/"></a></image>
 
 ### :fire: My Stats :
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Starniraj&theme=dark&background=000000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
