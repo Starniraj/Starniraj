@@ -7,7 +7,7 @@ Internet calls me Starniraj :smile:
 - 👯 I'm open to collaborating on React Apps, Projects to develop website.
 - 📫 How to reach me:singhniraj637@gmail.com
 - ⚡ Fun fact I am interested in Traveling.
-- To reach my portfolio you can click on link below my @Cognizant.
+- **To reach my portfolio you can click on link below @Cognizant.**
 
 ### Skills
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="35px" height="35px"></image>
