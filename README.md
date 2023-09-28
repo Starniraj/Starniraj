@@ -11,7 +11,7 @@ Internet calls me Starniraj :smile:
 ### Skills
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="35px" height="35px"></image>
 <img src="https://ictacademy.com.ng/wp-content/uploads/2020/02/92.-JavaScript-logo.png" width="35px" height="35px"></image>
-<img src="https://th.bing.com/th/id/OIP.Tf4BFI6846neirVSebC0vAAAAA?pid=ImgDet&rs=1" width="35px" height="35px"></image>
+<img src="https://img.favpng.com/6/20/13/express-js-node-js-javascript-session-web-application-png-favpng-nC0AgMs2TUUtFy3XMsP81vXd4.jpg"></image>
 <img src="https://clipground.com/images/mongodb-png-logo-4.jpg" width="35px" height="35px"></image>
 <img src="https://th.bing.com/th/id/R.6a33b5d5c9cbe5f9ae76caaca8bcfaf4?rik=1fXC1dOa%2fYBOyQ&riu=http%3a%2f%2fsonneiltech.com%2fwp-content%2fuploads%2f2021%2f01%2fpostman-logo-stacked.png&ehk=06R43mmYz6vVhuk8OfJDz1Gw3%2fku%2f8W1YnQG9WNx1sI%3d&risl=&pid=ImgRaw&r=0" width="35px" height="35px"></image>
 <img src="https://a.slack-edge.com/80588/img/api/netlify.png" width="35px" height="35px"></image>
